@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtBil2" type="id" />
+    <item name="txtBil1" type="id" />
+    <item name="hasil" type="id" />
+    <item name="btnCekBil" type="id" />
+</resources>
